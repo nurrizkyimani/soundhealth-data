@@ -1,13 +1,11 @@
-# Welcome to SoundHealth Codebase
+# Welcome to SoundHealth Data Codebase
 
 SoundHealth is a project based on the sound recognition work to recognize cough from patient. [Need new description]
 
 # Project Structure 
 
 
-
 # Technology Stack
-
 
 
 # How to Use
