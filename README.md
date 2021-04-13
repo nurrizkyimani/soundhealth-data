@@ -29,13 +29,8 @@ SoundHealth is a project based on the sound recognition work to recognize cough 
 3. Every new PR must follow the Code Review process to make sure the standard of code and avoid any bug.
 
 # Requirement 
-1. node.js
-2. npm
-3. firebase
 
 # Environment 
-There are `environment` need to consider : 
-- We strive for `production` and `development` key to divide the work into dev and production. In progress. 
 
 
 # Current Note 
